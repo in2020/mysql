@@ -11,3 +11,4 @@ kill <id>
 
 - [explain](http://www.dontorz.com/bbs/?mode=view&bbsid=study&ctg_cd=sql&bltn_seq=176)
 
+- [show syntax](https://dev.mysql.com/doc/refman/8.0/en/show.html)
